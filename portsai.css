@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-style: oblique;
+    
+}
+header{
+    background-color: black;
+    color:whitesmoke;
+    height: 100px;
+    padding: 20px;
+    font-style: normal;
+    
+}
+ul li{
+    display: inline;
+    padding: 20px;
+
+}
+ul li a{
+    color: gold;
+    text-decoration: none;
+    
+}
+#Home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+     
+}
+#Portfolio{
+    background-color:rgb(235, 223, 155);
+}
+#Skills{
+    color: black;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+form{
+    background-image: url('https://blindspot.ai/assets/img/intro-background.svg?3');
+}
